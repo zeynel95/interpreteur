@@ -1,0 +1,3 @@
+lire(x);
+y = x + 3 ;
+ecrire(y*2)

@@ -1,0 +1,6 @@
+x = 2;
+ecrire(x);
+if x + 3 < 5
+then x = x + 3
+else x = x - 1
+fi
